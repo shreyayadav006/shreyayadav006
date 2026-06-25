@@ -4,6 +4,7 @@
 
 **`Electrical Engineering Undergraduate · EV Technology · Python · IoT`**
 
+*Building systems that bridge hardware and data — from solar panels to satellites 🚀*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreya-yadav-1985b3323)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shreyadav006@gmail.com)
@@ -32,10 +33,9 @@
 
 ## ⚡ Projects
 
-| 🔭 Project | ⭐ Tech Stack | 📋 Description |
-|---|---|---|
-| [**Eco Vision Pro**](https://github.com/shreyayadav006/eco-vision-pro) | `Python` `Flask` `ESP32` `IoT` | Real-time solar energy monitoring with IoT sensors & cloud dashboards |
-| [**Aadhar Darpan**](https://github.com/shreyayadav006/aadhar-darpan) | `Python` `Pandas` `ETL` `JSON` | National intelligence audit dashboard with data pipeline & analytics |
+| 🔭 Project | ⭐ Tech Stack | 📋 Description | 🤝 Role |
+|---|---|---|---|
+| [**Aadhaar Darpan**](https://github.com/Anishk362/aadhaar-darpan) | `Python` `Pandas` `Flask` `JSON` | National intelligence audit dashboard with data pipeline & analytics | Contributor |
 
 ---
 
@@ -54,7 +54,6 @@ shreya = {
 ```
 
 ---
-
 
 
 ---
