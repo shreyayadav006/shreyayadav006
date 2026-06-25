@@ -1,10 +1,9 @@
 <div align="center">
 
-# 🔌 Hey! I'm Shreya Yadav ⚡
+#  Hey! I'm Shreya Yadav 
 
 **`Electrical Engineering Undergraduate · EV Technology · Python · IoT`**
 
-*Building systems that bridge hardware and data — from solar panels to satellites 🚀*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreya-yadav-1985b3323)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shreyadav006@gmail.com)
