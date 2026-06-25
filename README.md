@@ -67,6 +67,5 @@ shreya = {
 
 ---
 
-*⚡ This README is always evolving — just like my projects!*
 
 </div>
